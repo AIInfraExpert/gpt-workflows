@@ -9,6 +9,9 @@ Experimental workflows and prompt chains:
 
 These are demos/skeletons to reflect thinking, not production systems.
 
+**Diagrams & extra notes:** see [/docs](./docs).
+
+
 ---
 
 ## Quick start
